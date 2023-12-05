@@ -2,11 +2,12 @@
 ### Developing a resume website that follows the discipline of a Software Developer.
 
 ## Software Developer Disciplne
-1. Using Git technologies to record changes and create branches in a systematic order.
-2. Using Github as a repository website for real world application.
-3. Using React as the frontend tool for the website.
-4. Using Typescript/Javascript as the backend of the website.
-5. (Revise) Using SQL as the Achievements archive.
+1. Using Figma as a UI/UX prototype.
+2. Using Git technologies to record changes and create branches in a systematic order.
+3. Using Github as a repository website for real world application.
+4. Using React as the frontend tool for the website.
+5. Using Typescript/Javascript as the backend of the website.
+6. (Revise) Using SQL as the Achievements archive.
 
 ## Resume Website Mapping
 - Study, Work, and Event Roadmap timeline (Main Page).
