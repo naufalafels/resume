@@ -12,3 +12,9 @@
 - Study, Work, and Event Roadmap timeline (Main Page).
 - Achievements archive including Languages proficiency (Different Page).
 - Contact including personal picture (Floating Page/Different Page).
+
+## Website Features
+- Add Events on Roadmap timeline directly to website without coding.
+  - Events could consist a Picture or Video or None at all.
+- Editing Personal Contacts without coding.
+- Adding achievements to Achievements Archive without coding.
